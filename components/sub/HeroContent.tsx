@@ -1,4 +1,4 @@
-"use client";
+/* "use client";
 
 import React from "react";
 import { motion } from "framer-motion";
@@ -99,3 +99,4 @@ function Status(props: any) {
     </Text>
   );
 }
+ */

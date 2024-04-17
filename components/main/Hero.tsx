@@ -1,5 +1,4 @@
-import React from "react";
-import HeroContent from "../sub/HeroContent";
+"use client";
 
 const Hero = () => {
   return (
@@ -14,7 +13,11 @@ const Hero = () => {
         <source src="/" type="video/webm" />
       </video>   </div>*/}
 
-      <HeroContent />
+      {/*       <HeroContent />
+       */}
+      <div className="flex justify-center ">
+        <div> {""}</div>
+      </div>
     </div>
   );
 };
